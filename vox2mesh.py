@@ -7,8 +7,7 @@ from skimage import measure
 
 
 ### load structure data using np.loadtxt
-op_str = # complete the code here
-
+op_str = op_str = np.loadtxt("./results/optimized_structure.txt") # complete the code here
 ### preprocessing the data
 
 ## 1. write down the purpose of the following sippet in your report
